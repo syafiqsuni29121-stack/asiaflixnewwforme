@@ -1,39 +1,82 @@
-{
-  "name": "Asia Legal Content",
-  "description": "Official sources for Asian dramas, movies, and shows",
-  "manifestVersion": 1,
-  "extensions": [
+[
     {
-      "name": "Viki Official",
-      "description": "Viki streaming of licensed K-dramas and Asian content",
-      "version": "1.0.0",
-      "url": "https://www.viki.com/",
-      "language": "en",
-      "type": "video"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=viki.com&sz=%size%",
+        "jarFileSize": 12345,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/syafiqsuni29121-stack/asiaflixnewwforme",
+        "fileSize": 12345,
+        "status": 1,
+        "authors": [
+            "YourName"
+        ],
+        "tvTypes": [
+            "Drama"
+        ],
+        "version": 1,
+        "internalName": "VikiProvider",
+        "jarUrl": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/VikiProvider.jar",
+        "description": "Official Viki streaming of licensed K-dramas and Asian content",
+        "url": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/VikiProvider.cs3",
+        "name": "VikiProvider"
     },
     {
-      "name": "Kocowa Official",
-      "description": "Korean dramas and variety shows with subtitles",
-      "version": "1.0.0",
-      "url": "https://www.kocowa.com/",
-      "language": "en",
-      "type": "video"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kocowa.com&sz=%size%",
+        "jarFileSize": 12345,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/syafiqsuni29121-stack/asiaflixnewwforme",
+        "fileSize": 12345,
+        "status": 1,
+        "authors": [
+            "YourName"
+        ],
+        "tvTypes": [
+            "Drama"
+        ],
+        "version": 1,
+        "internalName": "KocowaProvider",
+        "jarUrl": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/KocowaProvider.jar",
+        "description": "Official Kocowa streaming of Korean dramas and variety shows",
+        "url": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/KocowaProvider.cs3",
+        "name": "KocowaProvider"
     },
     {
-      "name": "iQIYI Official",
-      "description": "Chinese dramas and movies, officially licensed",
-      "version": "1.0.0",
-      "url": "https://www.iq.com/",
-      "language": "en",
-      "type": "video"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=iq.com&sz=%size%",
+        "jarFileSize": 12345,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/syafiqsuni29121-stack/asiaflixnewwforme",
+        "fileSize": 12345,
+        "status": 1,
+        "authors": [
+            "YourName"
+        ],
+        "tvTypes": [
+            "Drama"
+        ],
+        "version": 1,
+        "internalName": "iQIYIProvider",
+        "jarUrl": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/iQIYIProvider.jar",
+        "description": "Official iQIYI streaming of Chinese dramas and movies",
+        "url": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/iQIYIProvider.cs3",
+        "name": "iQIYIProvider"
     },
     {
-      "name": "YouTube Official Channels",
-      "description": "Official KBS, MBC, SBS channels for legally uploaded dramas and shows",
-      "version": "1.0.0",
-      "url": "https://www.youtube.com/user/KBSWorld",
-      "language": "en",
-      "type": "video"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
+        "jarFileSize": 12345,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/syafiqsuni29121-stack/asiaflixnewwforme",
+        "fileSize": 12345,
+        "status": 1,
+        "authors": [
+            "YourName"
+        ],
+        "tvTypes": [
+            "Drama"
+        ],
+        "version": 1,
+        "internalName": "YouTubeOfficialProvider",
+        "jarUrl": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/YouTubeOfficialProvider.jar",
+        "description": "Official YouTube channels (KBSWorld, MBC, SBS) for licensed dramas",
+        "url": "https://raw.githubusercontent.com/syafiqsuni29121-stack/asiaflixnewwforme/main/YouTubeOfficialProvider.cs3",
+        "name": "YouTubeOfficialProvider"
     }
-  ]
-}
+]
