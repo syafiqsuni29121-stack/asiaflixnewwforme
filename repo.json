@@ -1,0 +1,39 @@
+{
+  "name": "Asia Legal Content",
+  "description": "Official sources for Asian dramas, movies, and shows",
+  "manifestVersion": 1,
+  "extensions": [
+    {
+      "name": "Viki Official",
+      "description": "Viki streaming of licensed K-dramas and Asian content",
+      "version": "1.0.0",
+      "url": "https://www.viki.com/",
+      "language": "en",
+      "type": "video"
+    },
+    {
+      "name": "Kocowa Official",
+      "description": "Korean dramas and variety shows with subtitles",
+      "version": "1.0.0",
+      "url": "https://www.kocowa.com/",
+      "language": "en",
+      "type": "video"
+    },
+    {
+      "name": "iQIYI Official",
+      "description": "Chinese dramas and movies, officially licensed",
+      "version": "1.0.0",
+      "url": "https://www.asiaflix.net/",
+      "language": "en",
+      "type": "video"
+    },
+    {
+      "name": "YouTube Official Channels",
+      "description": "Official KBS, MBC, SBS channels for legally uploaded dramas and shows",
+      "version": "1.0.0",
+      "url": "https://www.youtube.com/user/KBSWorld",
+      "language": "en",
+      "type": "video"
+    }
+  ]
+}
